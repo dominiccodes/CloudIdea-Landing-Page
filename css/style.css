@@ -110,6 +110,39 @@ header#main-header {
 	background: #f4f4f4;
 }
 
+#contact-form div {
+	margin-bottom: 20px;
+}
+
+#contact-form label {
+	display: inline-block;
+	width: 100px;
+	font-weight: bold;
+}
+
+#contact-form input[type='text'],
+#contact-form input[type='email'] {
+	border: #cccccc 1px solid;
+	border-radius: 5px;
+	height: 25px;
+	width: 65%;
+}
+
+#contact-form input[type='submit'] {
+	padding: 12px 17px;
+	color: #ffffff;
+	background: #fa6e3e;
+	border: 0;
+	border-radius: 5px;
+	float: right;
+	display: block;
+	margin-right: 20px;
+}
+
+#contact-form input[type='submit']:hover {
+	background: #d55427;
+	cursor: pointer;
+}
 /*Right hand content column - header */
 
 #content-header {
@@ -118,8 +151,14 @@ header#main-header {
 	padding-bottom: 10px;
 }
 
+/*Right hand content column - footer */
 
-
+#contact-form .content-footer p {
+	font-style: italic;
+	text-align: center;
+	color: #666666;
+	font-size: 80%;
+}
 
 
 
