@@ -42,7 +42,11 @@ strong {
 }
 
 
+.clearfix {
+	clear: both;
+}
 
+/*   End of base styling */
 
 
 
