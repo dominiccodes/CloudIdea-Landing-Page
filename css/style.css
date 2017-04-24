@@ -110,7 +110,13 @@ header#main-header {
 	background: #f4f4f4;
 }
 
+/*Right hand content column - header */
 
+#content-header {
+	border-top: #dddddd solid 1px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
 
 
 
