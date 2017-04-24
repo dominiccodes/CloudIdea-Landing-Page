@@ -171,7 +171,11 @@ header#main-header {
 	margin-right: 20px;
 }
 
-
+footer#main-footer {
+	text-align: center;
+	border-top: #cccccc solid 1px;
+	color: #aaa;
+}
 
 
 
