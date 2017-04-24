@@ -100,7 +100,15 @@ header#main-header {
 
 
 
+/*Right hand content column*/
 
+#contact-form {
+	padding: 10px 15px 15px 15px;
+	border: 4px solid #4ea0d8;
+	border-radius: 10px;
+	overflow: auto;
+	background: #f4f4f4;
+}
 
 
 
