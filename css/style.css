@@ -65,8 +65,15 @@ header#main-header {
 	margin-bottom: 20px;
 }
 
+#sub-1 {
+	float: left;
+	width: 48%;
+}
 
-
+#sub-2 {
+	float: right;
+	width: 48%;
+}
 
 
 
