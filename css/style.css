@@ -49,8 +49,14 @@ strong {
 /*   End of base styling */
 
 
+header#main-header {
+	border-bottom: 4px solid #4ea0d8;
+}
 
-
+#logo {
+	margin: auto;
+	display: block;
+}
 
 
 
