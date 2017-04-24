@@ -178,6 +178,71 @@ footer#main-footer {
 }
 
 
+/*Mobile Styles*/
+
+
+/* Screens smaller than 960px */
+
+@media (max-width:960px){
+	#container {
+		width: 80%;
+	}
+	
+	h1 {
+		font-size: 33px;
+	}
+	
+	#sub-1,#sub-2 {
+		float: none;
+		width: 100%;
+	}
+	
+	.points li {
+		background: #eeeeee;
+		padding: 8px;
+		border-radius: 10px;
+	}
+	
+	.points img {
+		margin-top: 7px;
+	}
+	
+	#testimonial img {
+		float: none;
+		margin: auto;
+		display: block;
+		margin-bottom: 20px;
+	}
+	
+	#contact-form input[type='submit'] {
+		float: none;		
+		display: block;
+		margin-top: 7px;
+		margin-right: 20px;
+	}
+}
+
+
+
+
+/* Screens smaller than 568px */
+
+@media (max-width:568px){
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
