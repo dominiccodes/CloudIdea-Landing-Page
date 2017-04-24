@@ -92,7 +92,11 @@ header#main-header {
 
 /*Left hand content column - footer */
 
-
+.content-footer {
+	border-top: #dddddd solid 1px;
+	margin-bottom: 20px;
+	padding-bottom: 10px;
+}
 
 
 
