@@ -58,6 +58,13 @@ header#main-header {
 	display: block;
 }
 
+#main-text {
+	text-align: center;
+	color: #333333;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
 
 
 
