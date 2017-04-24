@@ -160,6 +160,16 @@ header#main-header {
 	font-size: 80%;
 }
 
+#testimonial {
+	margin: 40px 0;
+	font-style: italic;
+	color: #666666;
+}
+
+#testimonial img {
+	float: left;
+	margin-right: 20px;
+}
 
 
 
