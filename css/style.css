@@ -213,8 +213,7 @@ footer#main-footer {
 		display: block;
 		margin-bottom: 20px;
 	}
-	
-	#contact-form input[type='submit'] {
+		#contact-form input[type='submit'] {
 		float: none;		
 		display: block;
 		margin-top: 7px;
@@ -222,28 +221,10 @@ footer#main-footer {
 	}
 }
 
-
-
-
 /* Screens smaller than 568px */
 
 @media (max-width:568px){
-	
-	
+	h1 {
+		font-size: 22px;
+	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
